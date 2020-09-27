@@ -4,7 +4,8 @@ This is the repo for __John Papetti III__  and __Mark Zhang__'s self
 driving car project for the Wardlaw + Hartridge School 2019
 Family Science Night (FSN)
 
-[YouTube video for this project](https://www.youtube.com/watch?v=b_zeB34lh58)
+[![An Intro to Self Driving Car](https://img.youtube.com/vi/b_zeB34lh58/0.jpg)](https://www.youtube.com/watch?v=b_zeB34lh58)
+
 
 In this project, a self driving robot is created using a Raspberry Pi 3. The
 robot can successfully follow a road (black strip on the white surface) using
